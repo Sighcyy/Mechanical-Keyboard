@@ -7,5 +7,8 @@ I did a couple of whiteboard drawings just to understand how many columns and ro
 
 <img width="709" alt="D1_Schematics" src="https://github.com/user-attachments/assets/753b6ddc-71cd-40f3-bc8c-fdfaba43a062" />
 
+I then went into what each key would represent so that I could get a better understanding of what the keyboard key layout would be like.
 
+By doing this, I was able to remove some extra columns so that my keyboard would be much more portable.
 
+![Screenshot 2025-06-20 154312](https://github.com/user-attachments/assets/4d5bfdb6-1e10-486a-80fa-9d4704626020)
