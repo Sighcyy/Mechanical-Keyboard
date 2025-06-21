@@ -12,3 +12,13 @@ I then went into what each key would represent so that I could get a better unde
 By doing this, I was able to remove some extra columns so that my keyboard would be much more portable.
 
 ![Screenshot 2025-06-20 154312](https://github.com/user-attachments/assets/4d5bfdb6-1e10-486a-80fa-9d4704626020)
+
+
+Afterwards, I spent the rest of my time choosing the right footprints and placing all my parts properly on the PCB
+
+
+![Screenshot 2025-06-20 192159](https://github.com/user-attachments/assets/2b8595ca-d0da-415c-9701-bff9e6d7eb78)
+
+
+# June 21th, 2025
+
