@@ -44,6 +44,24 @@ keyboard = KMKKeyboard()
 encoder_handler = EncoderHandler()
 keyboard.modules.append(encoder_handler)
 encoder_handler.pins = ((EncRotA, EncRotB, EncButton, False),)
-encoder_handler.map = (((KC.VOLD, KC.VOLU, KC.LALT(KC.TAB))
+encoder_handler.map = (((KC.VOLD, KC.VOLU, KC.MUTE)
 
 
+
+#Defining the Pins
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+                        
