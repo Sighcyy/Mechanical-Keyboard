@@ -6,6 +6,7 @@ from kmk.keys import KC
 from kmk.scanners import DiodeOrientation
 from kmk.extensions.media_keys import MediaKeys
 from kmk.modules.encoder import EncoderHandler
+from kmk.modules.macros import Press, Release, Tap, Macros
 
 
 
@@ -38,7 +39,7 @@ EncRotB = board.D29
 
 # Keyboard Main Instance
 keyboard = KMKKeyboard()
-
+keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
 # Encoder settings
 encoder_handler = EncoderHandler()
@@ -49,7 +50,14 @@ encoder_handler.map = (((KC.VOLD, KC.VOLU, KC.MUTE)
 
 
 #Defining the Pins
-
+keyboard.keymap = [
+    [KC.GRAVE, KC.KP_1, KC.KP_2, KC.KP_3, KC.KP_4, KC.KP_5, KC.KP_6, KC.KP_7, KC.KP_8, KC.KP_9, KC.KP_0, KC.MINUS	, KC.EQUAL, KC.BSPACE,
+     KC.TAB	, KC.Q, KC.W, KC.E, KC.R, KC.T, KC.Y, KC.U, KC.I, KC.O, KC.P, KC.KC.LBRACKET, KC.RBRACKET, KC.BSLASH,
+     KC.A, KC.S, KC.D, KC.F, KC.G, KC.H, KC.J, KC.K, KC.L, KC.SCOLON, KC.QUOTE, KC.KP_ENTER	
+     KC.C, KC.V
+    ]
+]
+                        
 
 
 
