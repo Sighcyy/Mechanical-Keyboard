@@ -36,6 +36,14 @@ Row5 = board.D26
 EncRotA = board.D27
 EncRotB = board.D29
 
+# Keyboard Main Instance
+keyboard = KMKKeyboard()
 
+
+# Encoder settings
+encoder_handler = EncoderHandler()
+keyboard.modules.append(encoder_handler)
+encoder_handler.pins = ((EncRotA, EncRotB, EncButton, False),)
+encoder_handler.map = (((KC.VOLD, KC.VOLU, KC.LALT(KC.TAB))
 
 
