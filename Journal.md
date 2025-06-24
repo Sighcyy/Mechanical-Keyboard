@@ -26,3 +26,9 @@ I spent a lot of time today trying to understand just exactly how I could route 
 ![Screenshot 2025-06-24 005438](https://github.com/user-attachments/assets/3ded05ee-60ca-4a6b-9f2e-0eeefa13afa1)
 
 
+# June 22nd, 2025
+Today was a very fast day on the 3D Modeling side. I finished up the CAD model by making a top and bottom plate, similar to how I made my MacPad. I had to use a keyboard layout editor and import it as a DFX in order to cut out the right holes into the top plate. Right now, it's missing some aesthetic to appeal to users, but I thought it would be better to approach that near the end. So instead, I moved towards researching how the code would be made.
+
+![Screenshot 2025-06-24 132848](https://github.com/user-attachments/assets/530ba73e-e083-4c96-be5e-964affe50b20)
+![Screenshot 2025-06-24 132908](https://github.com/user-attachments/assets/feaa8121-55bc-4ec2-b769-3ab3c2f4ea51)
+
