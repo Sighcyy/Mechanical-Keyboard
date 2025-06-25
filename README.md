@@ -14,3 +14,6 @@
 | Cherry MX Key Switches x 65 | Amazon  | $39.99  |
 | Rasberry Pi Pico  | Amazon  | $8.99 |
 
+
+Approximate Total Cost:  $113.39
+Rounded Total Cost (Tax Included) : $120
