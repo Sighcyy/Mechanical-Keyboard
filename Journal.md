@@ -37,6 +37,5 @@ Today was a very fast day on the 3D Modeling side. I finished up the CAD model b
 I finished writing my code in Python KMK. It was very fast because I did my research the day before on how to insert diodes into the code and a rotary encoder. As for the keys, I had experience from doing it on the Macropad.I was also  finished, I thought I'd spend some time in order to add some more designs to my keyboard case. Mostly inscriptions, and some linings just to make it nice.
 ![Screenshot 2025-06-25 140403](https://github.com/user-attachments/assets/7a3564c9-32cb-4950-8cda-f16ca27bc3fd)
 
-
-
+![Screenshot 2025-06-25 141201](https://github.com/user-attachments/assets/6ef3f3dc-db00-47ed-b0a4-fb0b11b23701)
 
