@@ -16,4 +16,5 @@
 
 
 Approximate Total Cost:  $113.39
-Rounded Total Cost (Tax Included) : $120
+
+Rounded Total Cost (Tax Included): $120
