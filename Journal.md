@@ -27,8 +27,14 @@ I spent a lot of time today trying to understand just exactly how I could route 
 
 
 # June 22nd, 2025
-Today was a very fast day on the 3D Modeling side. I finished up the CAD model by making a top and bottom plate, similar to how I made my MacPad. I had to use a keyboard layout editor and import it as a DFX in order to cut out the right holes into the top plate. Right now, it's missing some aesthetic to appeal to users, but I thought it would be better to approach that near the end. So instead, I moved towards researching how the code would be made.
+Today was a very fast day on the 3D Modeling side. I finished up the CAD model by making a top and bottom plate, similar to how I made my MacPad. I had to use a keyboard layout editor and import it as a DFX in order to cut out the right holes into the top plate. Right now, it's missing some aesthetic to appeal to users, but I thought it would be better to approach that near the end. Instead, I focused on researching how the code would be created.
 
 ![Screenshot 2025-06-24 132848](https://github.com/user-attachments/assets/530ba73e-e083-4c96-be5e-964affe50b20)
 ![Screenshot 2025-06-24 132908](https://github.com/user-attachments/assets/feaa8121-55bc-4ec2-b769-3ab3c2f4ea51)
+
+
+# June 23rd, 2025
+I finished writing my code in Python KMK. It was very fast because I did my research the day before on how to insert diodes into the code and a rotary encoder. Since I was also technically finished, I thought I'd spend some time in order to add some more designs to my keyboard case. Mostly inscriptions, and some linings just to make it nice.
+![Screenshot 2025-06-25 140403](https://github.com/user-attachments/assets/7a3564c9-32cb-4950-8cda-f16ca27bc3fd)
+
 
