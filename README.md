@@ -24,4 +24,4 @@
 
 Approximate Total Cost:  $113.39
 
-Rounded Total Cost (To Take Tax Into Accoutn): $120
+Rounded Total Cost (To Take Tax Into Account): $120
