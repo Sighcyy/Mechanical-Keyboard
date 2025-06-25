@@ -39,3 +39,6 @@ I finished writing my code in Python KMK. It was very fast because I did my rese
 
 ![Screenshot 2025-06-25 141201](https://github.com/user-attachments/assets/6ef3f3dc-db00-47ed-b0a4-fb0b11b23701)
 
+
+# June 24th, 2025
+Today was going to be my last day. So I first moved in and created my BOM. I used a bunch of different sizes and removed some keys, so I needed to find the right kit that would have everything I needed. I need some PCB mount stabilizers that would match the amount I have. Finally, I also needed to order a PCB, and I needed PLA Filament. Finally some smalle screw and nut to shut the top and bottom plate togethor. It took some time but I was able to get it done just by doing some reserach on amazon for a while.
