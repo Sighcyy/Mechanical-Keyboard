@@ -21,24 +21,24 @@ Afterwards, I spent the rest of my time choosing the right footprints and placin
 
 
 # June 21th, 2025
-I spent a lot of time today trying to understand just exactly how I could route every input. It took a lot of time, but I looked into using the back-end copper layers and the vias. This helped a lot, and I was able to finish making the PCB much faster. On top of all that, I learned more shortcuts on how to speed up my future PCB designing process.
+Today, I focused on figuring out how to properly route all the key inputs on my PCB, which turned out to be more challenging than expected due to limited space and overlapping traces. I spent a lot of time experimenting with using the bottom copper layer and strategically placing vias to reduce congestion and avoid trace conflicts. This approach significantly streamlined the routing process and helped me finish the layout more efficiently. Along the way, I also picked up several helpful workflow shortcuts in KiCad, like quick via placement, net highlighting, and optimized trace routing, which should speed up my future designs and make the overall process smoother.
 
 ![Screenshot 2025-06-24 005438](https://github.com/user-attachments/assets/3ded05ee-60ca-4a6b-9f2e-0eeefa13afa1)
 
 
 # June 22nd, 2025
-Today was a very fast day on the 3D Modeling side. I finished up the CAD model by making a top and bottom plate, similar to how I made my MacPad. I had to use a keyboard layout editor and import it as a DFX in order to cut out the right holes into the top plate. Right now, it's missing some aesthetic to appeal to users, but I thought it would be better to approach that near the end. Instead, I focused on researching how the code would be created.
+Today was a productive day on the 3D modeling front, as I completed the main structure of the CAD model by designing both the top and bottom plates, following a similar approach to my earlier Macropad build. I used a keyboard layout editor to customize the key arrangement, then exported it as a DXF file to precisely cut switch holes into the top plate. While the design is still pretty minimal in terms of aesthetics, I decided to hold off on cosmetic features until later in the process. Instead, I shifted gears and began researching the firmware side—specifically how keymaps, layers, and matrix scanning are handled in microcontroller code—so I can better integrate the hardware and software components once the physical build is done.
 
 ![Screenshot 2025-06-24 132848](https://github.com/user-attachments/assets/530ba73e-e083-4c96-be5e-964affe50b20)
 ![Screenshot 2025-06-24 132908](https://github.com/user-attachments/assets/feaa8121-55bc-4ec2-b769-3ab3c2f4ea51)
 
 
 # June 23rd, 2025
-I finished writing my code in Python KMK. It was very fast because I did my research the day before on how to insert diodes into the code and a rotary encoder. As for the keys, I had experience from doing it on the Macropad.I was also  finished, I thought I'd spend some time in order to add some more designs to my keyboard case. Mostly inscriptions, and some linings just to make it nice.
+Today, I wrapped up writing the firmware for my keyboard using Python with the KMK framework. Thanks to the research I did yesterday on implementing diode-based matrix scanning and integrating a rotary encoder, the coding process went smoothly and efficiently. My prior experience with key assignments from my Macropad project also helped me set up the keymap and layers quickly. With the core functionality complete, I decided to spend some extra time refining the keyboard case design by adding custom inscriptions and decorative linings to give it a more polished and personalized look—details I believe will help the final product stand out both functionally and visually.
 ![Screenshot 2025-06-25 140403](https://github.com/user-attachments/assets/7a3564c9-32cb-4950-8cda-f16ca27bc3fd)
 
 ![Screenshot 2025-06-25 141201](https://github.com/user-attachments/assets/6ef3f3dc-db00-47ed-b0a4-fb0b11b23701)
 
 
 # June 24th, 2025
-Today was going to be my last day. So I first moved in and created my BOM. I used a bunch of different sizes and removed some keys, so I needed to find the right kit that would have everything I needed. I need some PCB mount stabilizers that would match the amount I have. Finally, I also needed to order a PCB, and I needed PLA Filament. Finally some smalle screw and nut to shut the top and bottom plate togethor. It took some time but I was able to get it done just by doing some reserach on amazon for a while.
+Since today was planned to be my final work session, I focused on wrapping up all remaining tasks to prepare for the build phase. I started by creating a complete Bill of Materials (BOM), which took some time due to the various key sizes and layout adjustments I had made—several non-standard key sizes required finding the right switch kit that could accommodate everything. I also researched PCB-mount stabilizers to match the layout and ensure proper key feel. In addition, I finalized my component list by selecting a compatible PCB, PLA filament for 3D printing the case, and a set of small screws and nuts to secure the top and bottom plates together. Most of the sourcing was done through Amazon, after comparing product specs and reviews to ensure everything matched my design needs. To finish off the day, I carefully reviewed the CAD model, double-checking all key dimensions and mounting points to catch any potential issues before manufacturing.
