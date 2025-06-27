@@ -23,6 +23,10 @@ This is my second official project, and the reason I wanted to implement this is
 | Gateron PCB Mounted Stabilizer  | Gateron  | $10.99  |
 | Cherry MX Key Switches x 65 | Amazon  | $39.99  |
 | Rasberry Pi Pico  | Amazon  | $8.99 |
+| M2.5 Screws   | Home  | Free |
+
+
+Free == I have them at home
 
 
 Approximate Total Cost:  $113.39
