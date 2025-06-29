@@ -24,7 +24,7 @@ This is my second official project, and the reason I wanted to implement this is
 | Cherry MX Key Switches x 65 | Amazon  | $39.99  |[Link](https://www.amazon.com/Switches-Mechanical-Keyboards-Mounted-MX1AE1NN/dp/B09ZST8WMF?th=1) |
 | Rasberry Pi Pico  | Amazon  | $8.99 | [Link](https://www.amazon.com/Raspberry-Pi-Pico/dp/B09KVB8LVR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3FPRP7I8FTOOJ&gQT=2) |
 | M2.5 Screws   | Amazon  | $3.78 | [Link](https://www.amazon.com/Stainless-Electrical-Attaching-Connectors-Furniture/dp/B0F1TX35J1/ref=sr_1_3?dib=eyJ2IjoiMSJ9.JTABbbPI4c84bvAyFdR4QAuyl-zvLu0fcJk5cXvI7CgP3PrnFfs1Y5-tGvIDeWtB2-1FXimYR_6tWbYc7l1Yl75981KrnOtSW7BK_mkXe-KHN3JKPEqmflJlMbz0sP5a1YoZXgVWCERNChIxjkHuQOriRZKJPfTJImp-mY7FlTiTPr8vP3QAtC0O0UXKuSoqTSKWbbI68CFg5M05HuokIzPbcaEjR5B-uYtZjY1wSyU9kXgomI_tM-oYrlB5bJTbmkOtBr_AUfUpnt7zL0WXS9AVvfKmu5PKEjocyukiYc8.IYtoqxmfqz2vQdNwSSBZ0ralFLwOOfUYzNbiWcVSgDY&dib_tag=se&keywords=M2.5+Screws+and+Nuts&qid=1751160641&s=industrial&sr=1-3) |
-| PCB   | JPLCB  | $28.94 | [Link](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006) |
+| PCB   | JLPCB  | $28.94 | [Link](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006) |
 
 
 Approximate Total Cost:  $140.71
