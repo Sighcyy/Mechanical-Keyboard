@@ -27,9 +27,9 @@ This is my second official project, and the reason I wanted to implement this is
 | PCB   | JPLCB  | $28.94 | [Link](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006) |
 
 
-Approximate Total Cost:  $111.77
+Approximate Total Cost:  $140.71
 
-Rounded Total Cost (To Take Tax Into Account): $120
+Rounded Total Cost (To Take Tax Into Account): $145
 
 
 
