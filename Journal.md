@@ -61,3 +61,10 @@ Big things, I wanted to do some quick changes. The keyboard itself was a little 
 ![Screenshot 2025-07-02 205131](https://github.com/user-attachments/assets/18d006f4-b8a0-483c-ba5f-4641c171dce6)
 
 
+Also, I wanted to make sure that if I painted it, I knew how it would loo,k so I added that into the design as well and finished up my design
+
+![Screenshot 2025-07-02 211341](https://github.com/user-attachments/assets/f76c3267-a021-42f1-b533-2285cbc6a14d)
+![Screenshot 2025-07-02 211335](https://github.com/user-attachments/assets/c581495d-d0af-4ac0-9795-173254fdd514)
+![Screenshot 2025-07-02 211326](https://github.com/user-attachments/assets/bc0e10da-ba95-4553-8ee9-3ff53c478f34)
+
+
