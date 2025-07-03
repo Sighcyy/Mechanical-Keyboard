@@ -48,7 +48,8 @@ Top Plate
 
 Bottom Plate
 
-![Uploading Screenshot 2025-07-02 211335.png…]()
+![Screenshot 2025-07-02 211335](https://github.com/user-attachments/assets/8934f2d5-c0f0-4772-952d-09e2fa29e44b)
+
 
 
 
