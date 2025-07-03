@@ -42,13 +42,13 @@ Rounded Total Cost (To Take Tax Into Account): $145
 # CAD Model
 
 Top Plate
+![Screenshot 2025-07-02 211326](https://github.com/user-attachments/assets/aab50bc1-e897-4022-9ad6-9671637a4f61)
 
-![Screenshot 2025-06-24 132848](https://github.com/user-attachments/assets/dc55301d-fbc1-400d-b455-939b98517084)
 
 
 Bottom Plate
 
-![Screenshot 2025-06-25 140403](https://github.com/user-attachments/assets/b15d69f8-a5aa-4d34-b139-4c2dee2451e4)
+![Uploading Screenshot 2025-07-02 211335.png…]()
 
 
 
