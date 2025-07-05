@@ -51,6 +51,11 @@ Bottom Plate
 ![Screenshot 2025-07-02 211335](https://github.com/user-attachments/assets/8934f2d5-c0f0-4772-952d-09e2fa29e44b)
 
 
+Assembly with PCB
+![Screenshot 2025-07-05 142725](https://github.com/user-attachments/assets/66c7dae2-e5dc-441e-9d50-8d9aa9dc065c)
+
+
+
 
 
 # Firmware Overview
